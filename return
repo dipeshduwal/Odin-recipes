@@ -1,0 +1,25 @@
+[33mcommit 33972bcd989113c0922a3046ba26af205dbf2d7c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: dipeshduwal <electrifyingdipesh1@gmail.com>
+Date:   Fri Dec 22 08:42:55 2023 +0545
+
+    Add Ingredients and Steps section in recipe file.
+    
+    Add Relevant image in homepage and recipe files.
+    
+    Add ordered and unordered list in recipe files.
+
+[33mcommit 48f9c11714a6959f4e83052e4687b5f441163e3d[m
+Author: dipeshduwal <electrifyingdipesh1@gmail.com>
+Date:   Fri Dec 22 07:58:48 2023 +0545
+
+    Create different recipes file under recipes folder.
+    
+    Link recipes files in home page.
+    
+    Fill html boiler plate.
+
+[33mcommit a5c89ee6ef6108066e7dcd604108bd8f3bbcff22[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Dipesh Duwal <46082755+dipeshduwal@users.noreply.github.com>
+Date:   Fri Dec 22 07:39:48 2023 +0545
+
+    Initial commit
