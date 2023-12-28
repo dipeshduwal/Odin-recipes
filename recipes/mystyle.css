@@ -1,0 +1,58 @@
+*{
+    background-color: beige;
+}
+
+.food{
+    color: blue;
+    background-color: aliceblue;
+    font-size: 25px;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    font-weight: 800;
+}
+
+img{
+    width: auto;
+    height: 300px;
+ margin-left: 30%;
+}
+
+.description{
+    font-size: 15px;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+
+.heading{
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+    margin-left: 20px;
+    font-weight: 700;
+}
+
+
+
+ul, ol{
+    gap: 25px;
+    margin-left: 20px;
+
+}
+
+a{
+    background-color: rgb(224, 221, 221);
+    border-radius: 20%;
+    padding: 16px;
+    margin: 20px;
+    color:blueviolet
+}
+
+li{
+    font-size: 17px;
+    font-family: Verdana, sans-serif;
+    display: flex;
+    padding: 5px;
+    margin-left: 20px;
+    font-weight: 500;
+}
+
