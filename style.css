@@ -1,0 +1,43 @@
+*{
+    background-color: antiquewhite;
+}
+.header{
+    font-size: 40px;
+    color: brown;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(178, 162, 141);
+}
+
+img{
+    width: auto;
+    height: 400px;
+ margin-left: 30%;
+}
+
+.head1{
+    font-size: 25px;
+    color: rgb(38, 7, 7);
+    font-family: Verdana, sans-serif;
+    text-align: left;
+    margin: 40px;
+    
+}
+
+.recipe{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: left;
+    gap: 25px;
+}
+
+a{
+    background-color: rgb(224, 221, 221);
+    border-radius: 20%;
+    padding: 16px;
+    color:blueviolet
+}
